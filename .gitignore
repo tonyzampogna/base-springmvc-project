@@ -1,0 +1,10 @@
+*.DS_Store
+.idea/*
+.settings/*
+!.settings/.jsdtscope
+!.settings/.org.eclipse.*
+
+bin
+build
+target
+
